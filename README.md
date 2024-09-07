@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @lcalvin101
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-lcalvin101/lcalvin101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in basically everything; I like to know what's going on!
+- 🌱 I’m currently studying CS and Math @ UNSW
+- 💞️ I’m looking for a job in tech/software/cs
+- 📫 How to reach me: liucalvin20@gmail.com
