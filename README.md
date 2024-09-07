@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lcalvin101
 - 👀 I’m interested in basically everything; I like to know what's going on!
-- 🌱 I’m currently studying CS and Math @ UNSW
+- 🌱 I’m currently studying CS and Math
 - 💞️ I’m looking for a job in tech/software/cs
 - 📫 How to reach me: liucalvin20@gmail.com
